@@ -1,5 +1,3 @@
-### Hi there 👋
+# THIS IS A SAMPLE HELLO WORLD JAVA MAVEN PROJECT
 
-currently learning github
-
-
+Test commit to trigger jenkins build.
